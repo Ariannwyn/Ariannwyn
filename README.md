@@ -1,7 +1,7 @@
 ### Hi there, I'm Emily 👋
 
-[![Website](https://www.iamemilyadams.com/?&style=for-the-badge)]
-[![LinkedIn]()]
+[![Website](https://img.shields.io/website?&style=for-the-badge)](https://www.iamemilyadams.com/)
+[![LinkedIn](https://img.shields.io/twitter/follow/AriannwynDev?&style=for-the-badge)](https://www.linkedin.com/in/emilyadamsprofile/)
 
 ## I'm a Front End Web Developer!
 
@@ -11,4 +11,16 @@
 - 🥅 2020 Goals: Find a great work opportunity!
 - ⚡ Fun fact: I am a video game developer in addition to web development
 
+### Connect with me:
+
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 [![Emilys Github Stats](https://github-readme-stats.vercel.app/api?username=ariannwyn&show_icons=true&hide_border=true&theme=vue)]
+
+[website]: https://www.iamemilyadams.com/
+[twitter]: https://twitter.com/AriannwynDev
+[linkedin]: https://www.linkedin.com/in/emilyadamsprofile/
