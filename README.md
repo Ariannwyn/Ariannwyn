@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ---
 
-[Emilys Github Stats](https://github-readme-stats.vercel.app/api?username=ariannwyn&show_icons=true&hide_border=true&theme=vue)
+[![Emilys Github Stats](https://github-readme-stats.vercel.app/api?username=ariannwyn&show_icons=true&hide_border=true&theme=vue)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariannwyn&theme=vue)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariannwyn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
