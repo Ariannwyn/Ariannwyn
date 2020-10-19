@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ---
 
-[Emily's github stats](https://github-readme-stats.vercel.app/api?username=ariannwyn&show_icons=true&hide_border=true&theme=vue)
+[![Emily's github stats](https://github-readme-stats.vercel.app/api?username=ariannwyn&show_icons=true&hide_border=true&theme=vue)]
