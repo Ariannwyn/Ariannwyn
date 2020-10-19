@@ -1,3 +1,5 @@
+![](Banner.gif)
+
 ### Hi there, I'm Emily 👋
 
 [![Website](https://img.shields.io/website?label=iamemilyadams.com&style=for-the-badge&url=https://www.iamemilyadams.com/)](https://www.iamemilyadams.com/)
@@ -19,7 +21,7 @@
 <br />
 ---
 
-[![Emilys Github Stats](https://github-readme-stats.vercel.app/api?username=ariannwyn&show_icons=true&hide_border=true&theme=vue)]
+![[Emilys Github Stats](https://github-readme-stats.vercel.app/api?username=ariannwyn&show_icons=true&hide_border=true&theme=vue)]
 
 [website]: https://www.iamemilyadams.com/
 [twitter]: https://twitter.com/AriannwynDev
