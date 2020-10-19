@@ -1,6 +1,6 @@
 ### Hi there, I'm Emily 👋
 
-[![Website](https://img.shields.io/website?label=iamemilyadams.com&style=for-the-badge)](https://www.iamemilyadams.com/)
+[![Website](https://img.shields.io/website?label=iamemilyadams.com&style=for-the-badge&url=https://www.iamemilyadams.com/)](https://www.iamemilyadams.com/)
 [![LinkedIn](https://img.shields.io/twitter/follow/AriannwynDev?&style=for-the-badge)](https://www.linkedin.com/in/emilyadamsprofile/)
 
 ## I'm a Front End Web Developer!
