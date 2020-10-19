@@ -12,8 +12,6 @@
 - 👯 I’m looking for a company where I can solve problems
 - 🥅 2020 Goals: Find a great work opportunity!
 - ⚡ Fun fact: I am a video game developer in addition to web development
-<br />
----
 
 ### Connect with me:
 
