@@ -21,7 +21,7 @@
 <br />
 ---
 
-![[Emilys Github Stats](https://github-readme-stats.vercel.app/api?username=ariannwyn&show_icons=true&hide_border=true&theme=vue)]
+[![Emilys Github Stats](https://github-readme-stats.vercel.app/api?username=ariannwyn&show_icons=true&hide_border=true&theme=vue)]
 
 [website]: https://www.iamemilyadams.com/
 [twitter]: https://twitter.com/AriannwynDev
