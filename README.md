@@ -11,7 +11,7 @@
 - 🌱 I’m currently expanding on my Java education
 - 👯 I’m looking for a company where I can solve problems
 - 🥅 2020 Goals: Find a great work opportunity!
-- ⚡ Fun fact: I am a video game developer in addition to web development
+- ⚡ Fun fact: I have shipped multiple video game titles
 
 ### Connect with me:
 
