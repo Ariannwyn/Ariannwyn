@@ -5,18 +5,17 @@
 [![Website](https://img.shields.io/website?label=iamemilyadams.com&style=for-the-badge&url=https://www.iamemilyadams.com/)](https://www.iamemilyadams.com/)
 [![LinkedIn](https://img.shields.io/twitter/follow/AriannwynDev?&style=for-the-badge)](https://www.linkedin.com/in/emilyadamsprofile/)
 
-## I'm a Full Stack Web Developer!
+## I'm a Front End Web Developer!
 
-- 🔭 I just completed my education at Lambda School!!
-- 🌱 I’m currently expanding on my Java education
-- 👯 I’m looking for a company where I can solve problems
-- 🥅 2020 Goals: Find a great work opportunity!
-- ⚡ Fun fact: I have worked on multiple shipped video game titles
+- 🔭 I am partly self-taught, partly bootcamp educated!
+- 🌱 I’m currently expanding my React skills.
+- 👯 I’m looking for a company where I can implement designs and solve problems.
+- 🥅 2022 Goals: Adopt a puppy!
+- ⚡ Fun fact: I have a CDL and have been a semi truck driver for a short time!
 
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 ---
@@ -31,11 +30,9 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 <br />
 
 [website]: https://www.iamemilyadams.com/
-[twitter]: https://twitter.com/AriannwynDev
 [linkedin]: https://www.linkedin.com/in/emilyadamsprofile/
