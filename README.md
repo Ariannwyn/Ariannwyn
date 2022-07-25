@@ -10,7 +10,7 @@
 - 🌱 I’m currently expanding my React skills.
 - 👯 I’m looking for a company where I can implement designs and solve problems.
 - 🥅 2022 Goals: Adopt a puppy!
-- ⚡ Fun fact: I have a CDL and have been a semi truck driver for a short time!
+- ⚡ Fun fact: I have worked in the video game industry as a 3D artist!
 
 ### Connect with me:
 
