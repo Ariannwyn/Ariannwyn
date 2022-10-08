@@ -1,9 +1,6 @@
 ![](Banner.gif)
 
 ### Hi there, I'm Emily 👋
-
-[![Website](https://img.shields.io/website?label=iamemilyadams.com&style=for-the-badge&url=https://www.iamemilyadams.com/)](https://www.iamemilyadams.com/)
-
 ## I'm a Front End Web Developer!
 
 - 🔭 I am partly self-taught, partly bootcamp educated!
