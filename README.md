@@ -1,13 +1,13 @@
 ![](Banner.gif)
 
 ### Hi there, I'm Emily 👋
-## I'm a Front End Web Developer!
+## I'm a professional Scrum Master with experience as a 3D Artist, and skills in web development and UI/UX!
 
 - 🔭 I am partly self-taught, partly bootcamp educated!
-- 🌱 I’m currently expanding my React skills.
-- 👯 I’m looking for a company where I can implement designs and solve problems.
-- 🥅 2022 Goals: Adopt a puppy!
-- ⚡ Fun fact: I have worked in the video game industry as a 3D artist!
+- 🌱 I’m currently working as a Scrum Master.
+- 👯 I’m excited to build teams and cultures that can implement designs and solve problems.
+- 🥅 2024 Goals: Buy a house!
+- ⚡ Fun fact: I have my CDL and was a professional semi truck driver for a short time!
 
 ### Connect with me:
 
